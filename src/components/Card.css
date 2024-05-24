@@ -1,0 +1,10 @@
+.meme-card .white-shadow {
+    position: absolute;
+    bottom: -20px;
+    left: 20px;
+    right: 20px;
+    height: 20px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    filter: blur(10px);
+  }
